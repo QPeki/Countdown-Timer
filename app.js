@@ -2,7 +2,7 @@ const showTimer = document.querySelector('.display-timer');
 const timerBtn = document.querySelector('.btn-timer');
 const container = document.querySelector('.container');
 const stopTimerBtn = document.querySelector('.stop-btn');
-const resetTimerBtn = document.querySelector('.reset-btn');
+const resetTimerBtn = document.querySelector('.reset-btn'); 
 
 let timer = 0;
 
